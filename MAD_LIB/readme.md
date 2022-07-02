@@ -1,6 +1,10 @@
 # Mad lib
 
-A word game.
+A mad lib is a word game, in which texts in a paragraph are replaced with blank spaces;
+
+The user is then asked to fill in the blank spaces using named identifiers.
+
+The resulting paragraph is read out loud for fun and laughter.
 
 # Results
 
