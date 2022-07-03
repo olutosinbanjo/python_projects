@@ -1,8 +1,11 @@
 # Guess game
 
+Type 1: user guess
+
+
 # Expected Results
 
-[user_guess_game.py]()
+[user_guess_game.py](https://github.com/olutosinbanjo/python_projects/blob/d4f80e28d5a6464094e1cc5581beba91e8f48d91/GUESS_GAME/user_guess_game.py)
 
 ```
 Enter player name: Oluwatosin
